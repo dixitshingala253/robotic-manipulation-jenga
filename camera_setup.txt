@@ -1,0 +1,16 @@
+JENGA ROBOT PROJECT - CAMERA SETUP
+
+Camera 1:
+Position: Left
+Height: Higher
+Serial Number: 44264443
+
+Camera 2:
+Position: Right
+Height: Lower
+Serial Number: 45762804
+
+Camera type: ZED X
+Resolution: AUTO
+Frame Rate: 15 FPS
+Camera positions: Fixed and marked with tape

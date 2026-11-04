@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export PYTHONPATH=/usr/lib/python3/dist-packages:/home/esd26/.local/lib/python3.10/site-packages
+
+exec python3 -s "$@"

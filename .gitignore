@@ -1,0 +1,16 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Calibration image datasets
+calibration/*/flat_new/
+
+# Temporary files
+*.log
+.DS_Store
+# Raw calibration images
+calibration/**/*.jpg
