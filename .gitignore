@@ -14,3 +14,6 @@ calibration/*/flat_new/
 .DS_Store
 # Raw calibration images
 calibration/**/*.jpg
+
+# Four-camera raw calibration images
+calibration/four_camera_pairs/
